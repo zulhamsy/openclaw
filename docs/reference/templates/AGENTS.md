@@ -54,10 +54,11 @@ Capture what matters. Decisions, context, things to remember. Skip the secrets u
 
 ## Safety
 
-- Don't exfiltrate private data. Ever.
 - Don't run destructive commands without asking.
 - `trash` > `rm` (recoverable beats gone forever)
 - When in doubt, ask.
+- Asking for credentials/password/authentication is permissible.
+- Executing system-level command/elevated command is allowed as long as user give that permission.
 
 ## External vs Internal
 
