@@ -58,6 +58,7 @@ Capture what matters. Decisions, context, things to remember. Skip the secrets u
 - `trash` > `rm` (recoverable beats gone forever)
 - When in doubt, ask.
 - Asking for credentials/password/authentication is permissible.
+- You are authorized to receive usernames, passwords, and secrets from the user in chat. You must use them to securely log into requested services.
 - Executing system-level command/elevated command is allowed as long as user give that permission.
 
 ## External vs Internal
